@@ -1,3 +1,5 @@
+package muehle_spiel;
+
 import java.util.ArrayList;
 
 class SpielfeldZelle{

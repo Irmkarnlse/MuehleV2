@@ -1,3 +1,5 @@
+package muehle_spiel;
+
 class FarbInfo {
   private SpielfeldZelle.Farbe farbe;
   private int anzahlZuSetzen;

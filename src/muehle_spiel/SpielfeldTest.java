@@ -1,3 +1,5 @@
+package muehle_spiel;
+
 /*
 class Spielfeld {
   private SpielfeldZelle[] spielfeld;

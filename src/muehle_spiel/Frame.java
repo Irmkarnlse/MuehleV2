@@ -1,3 +1,5 @@
+package muehle_spiel;
+
 import javax.swing.JFrame;
 
 public class Frame extends JFrame{

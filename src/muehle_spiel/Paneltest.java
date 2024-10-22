@@ -1,3 +1,5 @@
+package muehle_spiel;
+
 /*
 import java.awt.Color;
 import java.awt.Graphics;

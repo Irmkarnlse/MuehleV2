@@ -1,3 +1,5 @@
+package muehle_spiel;
+
 class SpielfeldBild {
   private SpielfeldZelleBild spielfeld[][];
   private String zugText;

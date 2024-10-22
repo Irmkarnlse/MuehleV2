@@ -1,3 +1,5 @@
+package muehle_spiel;
+
 class SpielLogik {
   private FarbInfo FarbeAmZug;
   private Spielfeld spielfeld;
